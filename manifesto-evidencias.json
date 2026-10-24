@@ -1,0 +1,33 @@
+{
+  "data_local": "2026-10-24",
+  "hora_resposta_http": "00:43:08 America/Fortaleza (03:43:08 UTC)",
+  "commit": "ac0b424f7413aebbb8f76d2a0bc8efb7a2df5da4",
+  "total_registros": 75,
+  "repo_igual_producao_json": true,
+  "repo_igual_producao_html": true,
+  "sha256_posts": "3d068df18fadbdc9c976561cdfcb2840e0a406e5d134b9d40a17ffc44f760cf8",
+  "sem_campo_s": 75,
+  "registros_com_url_no_texto": 10,
+  "por_candidato": {
+    "Lula": {
+      "Verdadeiro": 18,
+      "Falso": 2,
+      "Parcial": 7,
+      "total": 27,
+      "fatometro": 80
+    },
+    "Flávio": {
+      "Verdadeiro": 2,
+      "Falso": 24,
+      "Parcial": 22,
+      "total": 48,
+      "fatometro": 27
+    }
+  },
+  "analise_selecao": {
+    "metodo": "Exploratoria, assistida por IA; sem universo completo de falas",
+    "referencia_externa": "https://www.agencialupa.org/checagem/2026/10/23/ao-vivo-checagem-do-ultimo-debate-entre-lula-e-flavio-bolsonaro-no-segundo-turno/",
+    "atualizacao_referencia": "2026-10-24 01:01 (horario exibido pelo veiculo)",
+    "limite": "Referencia posterior ao snapshot; ausencia nao demonstra intencao"
+  }
+}
